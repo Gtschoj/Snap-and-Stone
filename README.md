@@ -1,5 +1,5 @@
 # Mein tolles Spiel
 
--Schere
--Stein
--Papier
+- Schere
+- Stein
+- Papier
